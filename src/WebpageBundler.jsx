@@ -6,6 +6,9 @@ import {
 import Home from "./Main_Data/Home_Main";
 import React, { useState, useEffect } from "react";
 import Books from "./Modular/Books";
+import Movies from "./Modular/Movies"
+import Games from "./Modular/Games"
+import SubmitForm from "./Modular/SubmitForm";
 
 
 function WebpageBundle() {
@@ -24,6 +27,14 @@ function WebpageBundle() {
             {
                 path:"/books",
                 element: <Books />
+            },
+            {
+                path:"/movies",
+                element: <Movies />
+            },
+            {
+                path:"/games",
+                element: <Games />
             }
         ]
     )
@@ -31,6 +42,7 @@ function WebpageBundle() {
         <>
             <Header />
             <RouterProvider router={router} />
+            <SubmitForm />
         </>
     )
 }

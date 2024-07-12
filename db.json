@@ -1,34 +1,58 @@
 {
-    "books": [
-            {
-                "id": 0,
-                "name": "The Fellowship of the Ring",
-                "author": "J. R. R. Tolkien",
-                "time_to_consume": 800,
-                "ben_review": "Phenomenal High Fantasy Epic, has faced and conquered the tales of time, one of the best books ever written in the best trilogy of all time.",
-                "rating": 9,
-                "img": "https://m.media-amazon.com/images/I/71Ep7UNeTtL._AC_UF1000,1000_QL80_.jpg",
-                "description": "The Fellowship of the Ring is the first in the fantasy epic, Lord of the Rings, written by British author JRR Tolkien."
-            },
-            {
-                "id": 1,
-                "name":"Red Rising",
-                "author":"Pierce Brown",
-                "time_to_consume": "800",
-                "ben_review":"Sci-fi Epic meets Game of Thrones meets Hunger Games. Great series, with twists and turns at every corner",
-                "rating":7.5,
-                "img":"https://m.media-amazon.com/images/I/81tZufOGaZL._AC_UF1000,1000_QL80_.jpg",
-                "Description":"N/A"
-            }
-        ],
-    "movies": {
-        "mediaData": [
-            {}
-        ]
+  "books": [
+    {
+      "id": 0,
+      "name": "The Fellowship of the Ring",
+      "author": "J. R. R. Tolkien",
+      "time_to_consume": 800,
+      "ben_review": "Phenomenal High Fantasy Epic, has faced and conquered the tales of time, one of the best books ever written in the best trilogy of all time.",
+      "rating": 9,
+      "img": "https://m.media-amazon.com/images/I/71Ep7UNeTtL._AC_UF1000,1000_QL80_.jpg",
+      "description": "The Fellowship of the Ring is the first in the fantasy epic, Lord of the Rings, written by British author JRR Tolkien."
     },
-    "games": {
-        "mediaData": [
-            {}
-        ]
+    {
+      "id": 1,
+      "name": "Red Rising",
+      "author": "Pierce Brown",
+      "time_to_consume": "800",
+      "ben_review": "Sci-fi Epic meets Game of Thrones meets Hunger Games. Great series, with twists and turns at every corner",
+      "rating": 7.5,
+      "img": "https://m.media-amazon.com/images/I/81tZufOGaZL._AC_UF1000,1000_QL80_.jpg",
+      "Description": "N/A"
     }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "name": "Red Rising",
+      "author": "Pierce Brown",
+      "time_to_consume": "800",
+      "ben_review": "Sci-fi Epic meets Game of Thrones meets Hunger Games. Great series, with twists and turns at every corner",
+      "rating": 7.5,
+      "img": "https://m.media-amazon.com/images/I/81tZufOGaZL._AC_UF1000,1000_QL80_.jpg",
+      "Description": "N/A"
+    },
+    {
+      "id": "f89e",
+      "name": "w",
+      "author": "w",
+      "time_to_consume": "20",
+      "ben_review": "w",
+      "rating": "20",
+      "img": "w",
+      "description": "w"
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "name": "Red Rising",
+      "author": "Pierce Brown",
+      "time_to_consume": "800",
+      "ben_review": "Sci-fi Epic meets Game of Thrones meets Hunger Games. Great series, with twists and turns at every corner",
+      "rating": 7.5,
+      "img": "https://m.media-amazon.com/images/I/81tZufOGaZL._AC_UF1000,1000_QL80_.jpg",
+      "Description": "N/A"
+    }
+  ]
 }

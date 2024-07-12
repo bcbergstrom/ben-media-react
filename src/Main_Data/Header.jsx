@@ -26,6 +26,9 @@ function Header(){
                     <Offcanvas.Body>
                         <Nav className='justify-content-end flex-grow-1 pe-3'>
                         <Nav.Link href="/books">Books</Nav.Link>
+                        <Nav.Link href="/movies">Movies</Nav.Link>
+                        <Nav.Link href="/games">Games</Nav.Link>
+
                         </Nav>
                     </Offcanvas.Body>
                 </Navbar.Offcanvas>
